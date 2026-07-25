@@ -1,3 +1,5 @@
+English | [繁體中文](README.zh-TW.md)
+
 <p align="center">
   <img src="assets/valuecell.png" style="width: 100%; height: auto;">
 </p>
